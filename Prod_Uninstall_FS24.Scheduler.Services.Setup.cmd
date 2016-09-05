@@ -1,0 +1,1 @@
+msiexec /uninstall FS24.Scheduler.Service.Setup.msi STAGE=prod /l*v FS24.Scheduler.Service.Setup.msi.log

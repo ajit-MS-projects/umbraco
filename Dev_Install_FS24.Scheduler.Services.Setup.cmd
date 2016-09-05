@@ -1,0 +1,1 @@
+msiexec /i FS24.Scheduler.Service.Setup.msi STAGE=dev /l*v FS24.Scheduler.Service.Setup.msi.log
